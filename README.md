@@ -2,7 +2,7 @@
 
 CSR, SSR, ISR, SSG samples in Next.js.
 
-[Demo site](https://next-js-rendering-type-sample.vercel.app/isr)
+[Demo site](https://next-js-rendering-type-sample.vercel.app)
 
 ![](https://i.gyazo.com/45270fe6286659d631a9396e0c1cd353.gif)
 
