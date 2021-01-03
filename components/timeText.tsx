@@ -1,11 +1,15 @@
 import React from "react";
 
 type PropsType = {
-  time: string
-}
+  time: string;
+};
 
-const TimeText: React.FC<PropsType> = ({time}) => {
-  return <div className="is-size-6">Created at: <span className="has-text-weight-bold">{time}</span></div>
-}
+const TimeText: React.FC<PropsType> = ({ time }) => {
+  return (
+    <div className="is-size-6">
+      Created at: <span className="has-text-weight-bold">{time}</span>
+    </div>
+  );
+};
 
-export default TimeText
+export default TimeText;
