@@ -28,6 +28,6 @@ module.exports = {
     "plugin:prettier/recommended",
   ],
   rules: {
-    'react/prop-types': 0,
+    "react/prop-types": 0,
   },
 };
